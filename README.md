@@ -1,25 +1,25 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/jofTj7sXff5kXEUjGV/giphy.gif" alt="cart" width="280"/>
+   <img src="https://media.giphy.com/media/jofTj7sXff5kXEUjGV/giphy.gif" alt="qr-code" width="280"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/mkWSXGKl8miCoDv8Xd/giphy.gif" alt="cart" width="130"/>
+   <img src="https://media.giphy.com/media/mkWSXGKl8miCoDv8Xd/giphy.gif" alt="qr-code" width="130"/>
 </p>
 
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-feedback?color=4266f5">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/qr-code?color=3decb1">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-feedback?color=4266f5">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/qr-code?color=3decb1">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-feedback?color=4266f5">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/qr-code?color=3decb1">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-feedback?color=4266f5" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/qr-code?color=3decb1" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-feedback?color=4266f5" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/qr-code?color=3decb1" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-feedback?color=4266f5" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/qr-code?color=3decb1" /> 
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="#" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://qr-code-teal-delta.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -40,7 +40,7 @@
 <h4 align="center"> QR Code</h4>
 
 <p align="center">
-   <img src="/public/qrcode.gif" alt="feedback" width="690"/>
+   <img src="/public/qrcode.gif" alt="qr-code" width="690"/>
 </p>
 <hr/>
 <p align="left">
@@ -94,13 +94,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/my-feedback.git
+$ git clone https://github.com/agostinhomarcia/qr-code.git
 # Access
-$ cd my-feedback
+$ cd qr-code
 # Install dependencies
 $ yarn or npm
 # Run the project
-$ yarn start or npm start
+$ yarn run dev or npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
